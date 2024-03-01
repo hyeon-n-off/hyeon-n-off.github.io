@@ -29,5 +29,11 @@ $code-icon-width: 1.75rem !default;
 
 /* fonts */
 
-$font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: Lato, 'Microsoft Yahei', sans-serif !default;
+$font-family-base: 'Gowun Dodum', 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: 'Gowun Dodum', Lato, 'Microsoft Yahei', sans-serif !default;
+
+.gowun-dodum-regular {
+    font-family: "Gowun Dodum", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
